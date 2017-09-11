@@ -1,5 +1,5 @@
 # opendoor
-A series of programs that implementing a "smart" door sensor
+A series of programs that implements a "smart" door sensor
 
 # Setup
 API - NodeJS Server that implements RESTful API w/ MongoDB support. Runs on cloud server
